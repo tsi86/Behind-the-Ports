@@ -1,0 +1,12 @@
+[*] Running full scan on 127.0.0.1
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-09-15 23:08 EEST
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.000028s latency).
+Not shown: 65535 closed tcp ports (reset), 65534 closed udp ports (port-unreach)
+PORT    STATE         SERVICE VERSION
+323/udp open|filtered unknown
+Too many fingerprints match this host to give specific OS details
+Network Distance: 0 hops
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 122.07 seconds
